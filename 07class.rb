@@ -28,4 +28,3 @@ puts "TestSubClass"
 b.hello
 b.dao
 b.bye
-
